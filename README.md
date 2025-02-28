@@ -1,21 +1,21 @@
-👋 About Me
+# nem0thefinder Portfolio
 
-**Computer Science Student**
+I'm a Computer Science Graduate and Junior Web3 security researcher who had a strong passion for Web3 technologies and the value they bring to the  world
 
- I’m currently pursuing my degree in computer science, building strong foundations in algorithms, data structures, and software development.
+I'm Securing Protocols everywhere such as in [sherlock](https://audits.sherlock.xyz/watson/nem0thefinder).
 
-**Smart Contract Auditor**
+- Twitter: [@nem0thefinder](https://x.com/nem0thefinder)
+- Discord: [@nem0thefinder](https://discord.com/channels/nem0thefinder)
 
-I specialize in breaking decentralized applications (dApps) with Solidity, exploring the Ethereum ecosystem and learning how to secure smart contracts.
+## First Flights 
+| Nonce | Contest | Findings | Rank | Report |
+|:--------|:---------|:------:|:------:|:------:|
+|1|[christmasDinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner)|[3H,4M,2L](x.com)|4/90|-|
 
-**Blockchain Enthusiast**
 
-Passionate about blockchain technology, with a deep interest in the Ethereum Virtual Machine (EVM) and decentralized finance (DeFi) protocols.
+## Audit Contests
+| Nonce | Contest | Findings | Rank | Report |
+|:--------|:---------|:------:|:------:|:------:|
+|1|[Daoo](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|[1H,1M](x.com)|113/292|-|
 
-**Hands-on with Solidity**
 
-Actively working on projects that involve smart contract security, auditing, and optimization. Always striving to improve contract design to make the code more reliable and scalable.
-
-**Open to Collaboration**
-
-I love collaborating on exciting blockchain projects! Feel free to reach out if you'd like to work together or share ideas.
