@@ -1,11 +1,31 @@
-# nem0thefinder Portfolio
+## 🧠 About Me
 
-I'm a Computer Science Graduate and Junior Web3 security researcher who had a strong passion for Web3 technologies and the value they bring to the  world
+Ex-CS major turned **Web3 security hunter** — I stumbled into crypto through curiosity and stayed for the chaos. While devs ship code, I break it (respectfully). I thrive where the **TVL is high**, the risks are real, and the **black hats are lurking**.
 
-I'm Securing Protocols everywhere such as in [Cantina](https://cantina.xyz/u/nem0thefinder).
+The name's nem0thefinder, and I’m not here to "try Web3 security" — I’m here to **master it**.
+
+## 🛠️ Toolbelt
+
+- **Languages**:  
+  - `Solidity`
+  - `Rust` 
+
+- **Frameworks**:  
+  - `Foundry` 
+  - `Hardhat` 
+  - `Anchor` 
+
+## 🎯 Current Mission 
+
+- Climb the leaderboards.
+- Become the kind of auditor whose name makes devs double-check their modifiers twice.
+
+## Social 📱
 
 - Twitter: [@nem0thefinder](https://x.com/nem0thefinder)
-- Discord: [@nem0thefinder](https://discord.com/channels/nem0thefinder)
+- Discord: @nem0thefinder
+
+## Auditing Portfolio 📔
 
 ## First Flights 
 | Nonce | Contest | Findings | Rank | Report |
