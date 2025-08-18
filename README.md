@@ -32,7 +32,7 @@ The name's nem0thefinder, and I’m not here to "try Web3 security" — I’m he
 |:--------|:---------|:------:|:------:|:------:|
 |1|[christmasDinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner)|3H,4M,2L|4/90|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2024-12-christmas-dinner.md)|
 |2|[HighHawk](https://codehawks.cyfrin.io/c/2025-05-hawk-high)|3H,3M,3L|18/143|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-05-HawksHigh.md)|
-
+|3|[LastManStanding](https://codehawks.cyfrin.io/c/2025-07-last-man-standing)|2H,2M|8/160|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-LastManStanding.md)|
 
 ## Audit Contests
 | Nonce | Contest | Findings | Rank | Report |
