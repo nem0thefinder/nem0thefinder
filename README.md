@@ -7,7 +7,7 @@ The name's nem0thefinder, and I’m not here to "try Web3 security" I’m here t
 ## 🛠️ Toolbelt
 
 - **EcoSystems**:  
-  - `Etheruem`
+  - `Ethereum`
   - `Sui` (soon)
   - `Aptos` (soon)
 
