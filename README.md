@@ -6,14 +6,16 @@ The name's nem0thefinder, and I’m not here to "try Web3 security" I’m here t
 
 ## 🛠️ Toolbelt
 
-- **Languages**:  
-  - `Solidity`
-  - `Rust` (SOON)
+- **EcoSystems**:  
+  - `Etheruem`
+  - `Sui` (soon)
+  - `Aptos` (soon)
 
-- **Frameworks**:  
-  - `Foundry` 
-  - `Hardhat` 
-  - `Anchor` (SOON)
+- **Languages**:  
+  - `Solidity` 
+  - `JavaScript`
+  - `TypeScript`
+  - `Move` (SOON)
 
 ## 🎯 Current Mission 
 
