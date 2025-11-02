@@ -41,7 +41,7 @@ The name's nem0thefinder, and I’m not here to "try Web3 security" I’m here t
 |:------|:---------|:--------------|:--------:|:----:|:------:|
 |1|[DAAO](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|![](https://img.shields.io/badge/-FundRaising-Green) ![](https://img.shields.io/badge/-LiquidityManagement-orange) ![](https://img.shields.io/badge/-DAAO-blue)|1H,1M,1L,2I|113/292|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-01-Daao.md)|
 |2|[OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue)|1M,1L|3/50|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-OpenEden.md)|
-|3|[OpenEdenUSDO](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue) ![](https://img.shields.io/badge/-StableCoin-red)|2M-3L|7/43|Private|
+|3|[OpenEdenUSDO](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue) ![](https://img.shields.io/badge/-StableCoin-red)|2M-3L|7/43|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md)|
 
 
 
