@@ -9,13 +9,13 @@ The name's nem0thefinder, and I’m not here to "try Web3 security" I’m here t
 - **EcoSystems**:  
   - `Ethereum`
   - `Sui` (soon)
-  - `Aptos` (soon)
 
 - **Languages**:  
   - `Solidity` 
   - `JavaScript`
   - `TypeScript`
   - `Move` (SOON)
+  - `Go` (SOON)
 
 ## 🎯 Current Mission 
 
