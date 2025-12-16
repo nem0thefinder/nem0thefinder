@@ -1,6 +1,6 @@
-## 🧠 About Me
+##  About Me
 
- **Web3 security hunter** — I stumbled into crypto through curiosity and stayed for the chaos. While devs ship code, I break it (respectfully). I thrive where the **TVL is high**, the risks are real, and the **black hats are lurking**.
+ **Web3 security reasearcher** who stumbled into crypto through curiosity and stayed for the chaos. While devs ship code, I break it (respectfully). I thrive where the **TVL is high**, the risks are real, and the **black hats are lurking**.
 
 The name's nem0thefinder, and I’m not here to "try Web3 security" I’m here to **master it**.
 
