@@ -23,11 +23,6 @@ Security Engineer specializing in **blockchain security** across the full protoc
 - Climb the leaderboards.
 - Become the kind of auditor whose name makes devs double-check their modifiers 😈.
 
-## Social 📱
-
-- Twitter: [@nem0thefinder](https://x.com/nem0thefinder)
-- Discord: @nem0thefinder
-
 ## Auditing Portfolio 📔
 
 ## First Flights 
