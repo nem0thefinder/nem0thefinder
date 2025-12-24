@@ -44,7 +44,7 @@ Security Engineer specializing in **blockchain security** across the full protoc
 |2|[OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue)|1M,1L|3/50|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-OpenEden.md)|
 |3|[OpenEdenUSDO](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue) ![](https://img.shields.io/badge/-StableCoin-red)|2M-3L|7/43|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md)|
 |4|[GTE](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)|![](https://img.shields.io/badge/-LaunchPad-orange) ![](https://img.shields.io/badge/-Perps-yellow)|2H-3M-2L|PENDING|PENDING|
-|5|[AlchehmixV3](https://immunefi.com./audit-competition/alchemix-v3-audit-competition)|![](https://img.shields.io/badge/-Lending_Borrowing-green) ![](https://img.shields.io/badge/-YieldAggreagator-blue)|3H-1M-5L-2I|PENDING|PENDING|
+|5|[AlchemixV3](https://immunefi.com./audit-competition/alchemix-v3-audit-competition)|![](https://img.shields.io/badge/-Lending_Borrowing-green) ![](https://img.shields.io/badge/-YieldAggreagator-blue)|3H-1M-5L-2I|PENDING|PENDING|
 
 
 ## 🎓 Background
