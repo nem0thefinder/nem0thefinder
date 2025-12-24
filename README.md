@@ -2,8 +2,6 @@
 
 Security Engineer specializing in **blockchain security** across the full protocol lifecycle—from **pre-deployment audits** to **live protocol bug bounties**.nem0thefinder is an auditor with proven track record in competitive contests, focusing on high-severity vulnerability discovery through systematic manual analysis.
 
-**Currently seeking:** Full-time Security Engineer positions specializing in Blockchain Security .
-
 ## 📊 Security Stats
 
 - **Active Since:** January 2025
