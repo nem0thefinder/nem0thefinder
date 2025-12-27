@@ -44,7 +44,7 @@ Security Engineer focused on end-to-end blockchain protocol security. Actively s
 
 ## 🎓 Background
 
-- **Education:** B.S. Computer Science (2025)
+- **Education:** B.Sc. in Computer Science (2025)
 - **Security Training:** Self-taught via competitive audits & Audit Reports
 - **Approach:** Breaking systems > Building systems
 
