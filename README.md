@@ -35,7 +35,7 @@ Security Engineer focused on end-to-end blockchain protocol security. Actively s
 ## Audit Contests
 | Nonce | Contest | Protocol Type | Language | Findings | Rank | Report |
 |:------|:---------|:--------------|:---------|:--------:|:----:|:------:|
-|1|[DAAO](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|![](https://img.shields.io/badge/-FundRaising-Green) ![](https://img.shields.io/badge/-LiquidityManagement-orange) ![](https://img.shields.io/badge/-DAAO-blue)|Solidity|1H,1M,1L,2I|113/292|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-01-Daao.md)|
+|1|[DAAO](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|![](https://img.shields.io/badge/-FundRaising-Green) ![](https://img.shields.io/badge/-LiquidityManagement-orange)|Solidity|1H,1M,1L,2I|113/292|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-01-Daao.md)|
 |2|[OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue)|Solidity|1M,1L|3/50|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-OpenEden.md)|
 |3|[OpenEdenUSDO](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue) ![](https://img.shields.io/badge/-StableCoin-red)|Solidity|2M-3L|7/43|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md)|
 |4|[GTE](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)|![](https://img.shields.io/badge/-LaunchPad-orange) ![](https://img.shields.io/badge/-Perps-yellow)|Solidity|2H-3M-2L|PENDING|PENDING|
