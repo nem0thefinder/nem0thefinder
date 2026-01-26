@@ -5,10 +5,10 @@ Security Engineer focused on end-to-end blockchain protocol security. Actively s
 ## 📊 Security Stats
 
 - **Active Since:** January 2025
-- **Audit Contests Completed:** 6 
+- **Audit Contests Completed:** 6
 - **Confirmed Findings:** 9 Highs, 8 Mediums, 12 Lows, 4 Insights
 - **Best Rank:** 3/50 (OpenEden)
-- **Top 20 Finishes:** 2/5 contests
+- **Top 20 Finishes:** 2/6 contests
 - **Platforms:** [CodeHawks](https://profiles.cyfrin.io/u/nem0thefinder) , [Cantina](https://cantina.xyz/u/nem0thefinder) , [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , Immunefi
 
 ## 🛠️ Technical Stack
