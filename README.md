@@ -1,6 +1,6 @@
 ## 👤 About
 
-Security Engineer focused on end-to-end blockchain protocol security. Actively seeking security engineering or triaging roles in the blockchain ecosystem.
+Blockchain Security Engineer 
 
 ## 📊 Security Stats
 
