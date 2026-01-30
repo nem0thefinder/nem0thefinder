@@ -5,17 +5,17 @@ Blockchain Security Engineer
 ## 📊 Security Stats
 
 - **Active Since:** January 2025
-- **Audit Contests Completed:** 6
-- **Confirmed Findings:** 9 Highs, 8 Mediums, 12 Lows, 4 Insights
+- **Audit Contests Completed:** 5
+- **Confirmed Findings:** 7 Highs, 8 Mediums, 12 Lows, 4 Insights
 - **Best Rank:** 3/50 (OpenEden)
-- **Top 20 Finishes:** 2/6 contests
-- **Platforms:** [CodeHawks](https://profiles.cyfrin.io/u/nem0thefinder) , [Cantina](https://cantina.xyz/u/nem0thefinder) , [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , Immunefi
+- **Top 10 Finishes:** 2/5 contests
+- **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
 
 ## 🛠️ Technical Stack
 
-- Languages: `Solidity`, `Move`
-- Frameworks: `Foundry`, `Hardhat`,`Move`
-- Chains: `Ethereum`,`Sui`
+- Languages: `Solidity`
+- Frameworks: `Foundry`, `Hardhat`
+- Chains: `Ethereum`
 
 
 ## 🎯 Current Mission 
@@ -38,8 +38,8 @@ Blockchain Security Engineer
 |1|[DAAO](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|![](https://img.shields.io/badge/-FundRaising-Green) ![](https://img.shields.io/badge/-LiquidityManagement-orange)|Solidity|1H,1M,1L,2I|113/292|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-01-Daao.md)|
 |2|[OpenEden](https://hackenproof.com/audit-programs/openeden-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue)|Solidity|1M,1L|3/50|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-OpenEden.md)|
 |3|[OpenEdenUSDO](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue) ![](https://img.shields.io/badge/-StableCoin-red)|Solidity|2M-3L|7/43|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md)|
-|4|[GTE](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)|![](https://img.shields.io/badge/-LaunchPad-orange) ![](https://img.shields.io/badge/-Perps-yellow)|Solidity|3H-3M-2L|45/182|PENDING|
-|5|[AlchemixV3](https://immunefi.com./audit-competition/alchemix-v3-audit-competition)|![](https://img.shields.io/badge/-Lending_Borrowing-green) ![](https://img.shields.io/badge/-YieldAggreagator-blue)|Solidity|3H-1M-5L-2I|PENDING|PENDING|
+|4|[GTE](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)|![](https://img.shields.io/badge/-LaunchPad-orange) ![](https://img.shields.io/badge/-Perps-yellow)|Solidity|3H-3M-2L|45/182|[🗒️](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-08-gte.md)|
+|5|[AlchemixV3](https://immunefi.com./audit-competition/alchemix-v3-audit-competition)|![](https://img.shields.io/badge/-Lending_Borrowing-green) ![](https://img.shields.io/badge/-YieldAggreagator-blue)|Solidity|3H-1M-5L-2I|41/183|PENDING|
 
 
 ## 🎓 Background
