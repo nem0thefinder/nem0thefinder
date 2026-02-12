@@ -1,6 +1,6 @@
 ## 👤 About
 
-Blockchain Security Engineer 
+Blockchain Security Engineer. 
 
 ## 📊 Security Stats
 
