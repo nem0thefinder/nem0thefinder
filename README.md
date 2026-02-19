@@ -14,7 +14,7 @@ Blockchain Security Engineer
 ## 🛠️ Technical Stack
 
 - Languages: `Solidity`, `Go` (soon)
-- Frameworks: `Foundry`, `Hardhat`, `Cosmos` (soon)
+- Frameworks: `Foundry`, `Hardhat`, `Cosmos SDK` (soon)
 - Chains: `Ethereum`
 
 
