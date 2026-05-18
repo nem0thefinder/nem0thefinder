@@ -5,7 +5,7 @@ Blockchain Security Engineer
 ## Security Stats
 
 - **Active Since:** January 2025
-- **Audit Contests Completed:** 5
+- **Public Audits:** 5
 - **Confirmed Findings:** 7 Highs, 8 Mediums, 12 Lows, 4 Insights
 - **Best Rank:** 3/50 (OpenEden)
 - **Top 10 Finishes:** 2/5 contests
@@ -25,7 +25,7 @@ Blockchain Security Engineer
 |2|[HighHawk](https://codehawks.cyfrin.io/c/2025-05-hawk-high)|3H,3M,3L|18/143|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-05-HawksHigh.md)|
 |3|[LastManStanding](https://codehawks.cyfrin.io/c/2025-07-last-man-standing)|2H,2M|8/160|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-LastManStanding.md)|
 
-## Audit Contests
+## Public Audits
 | Nonce | Contest | Protocol Type | Language | Findings | Rank | Report |
 |:------|:---------|:--------------|:---------|:--------:|:----:|:------:|
 |1|[DAAO](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|![](https://img.shields.io/badge/-FundRaising-Green) ![](https://img.shields.io/badge/-LiquidityManagement-orange)|Solidity|1H,1M,1L,2I|113/292|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-01-Daao.md)|
