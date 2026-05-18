@@ -1,8 +1,8 @@
-## 👤 About
+## About
 
 Blockchain Security Engineer
 
-## 📊 Security Stats
+## Security Stats
 
 - **Active Since:** January 2025
 - **Audit Contests Completed:** 5
@@ -11,18 +11,12 @@ Blockchain Security Engineer
 - **Top 10 Finishes:** 2/5 contests
 - **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - Languages: `Solidity`, `Go`
 - EcoSystems: `Evm`
 
-
-## 🎯 Current Mission 
-
-- Climb the leaderboards.
-- Become the kind of auditor whose name makes devs double-check their modifiers 😈.
-
-## Auditing Portfolio 📔
+## Auditing Portfolio 
 
 ## First Flights 
 | Nonce | Contest | Findings | Rank | Report |
@@ -41,13 +35,13 @@ Blockchain Security Engineer
 |5|[AlchemixV3](https://immunefi.com./audit-competition/alchemix-v3-audit-competition)|![](https://img.shields.io/badge/-Lending_Borrowing-green) ![](https://img.shields.io/badge/-YieldAggreagator-blue)|Solidity|3H-1M-5L-1I|41/183|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md)|
 
 
-## 🎓 Background
+## Background
 
 - **Education:** B.Sc. in Computer Science (2025)
 - **Security Training:** Self-taught via competitive audits & Audit Reports
 - **Approach:** Breaking systems > Building systems
 
-## 📫 Contact
+## Contact
 
 - **Twitter:** [@nem0thefinder](https://x.com/nem0thefinder)
 - **Discord:** nem0thefinder
