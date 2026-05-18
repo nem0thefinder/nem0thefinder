@@ -13,7 +13,7 @@ Blockchain Security Engineer
 
 ## 🛠️ Technical Stack
 
-- Languages: `Solidity`,`Go`
+- Languages: `Solidity`, `Go`
 - EcoSystems: `Evm`
 
 
