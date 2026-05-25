@@ -6,6 +6,7 @@ Blockchain Security Engineer
 
 - **Active Since:** January 2025
 - **Public Audits:** 5
+- **Private Audits:** 1
 - **Confirmed Findings:** 1 Critical, 7 Highs, 8 Mediums, 13 Lows, 4 Insights
 - **Best Rank:** 3/50 (OpenEden)
 - **Top 10 Finishes:** 2/5 contests
