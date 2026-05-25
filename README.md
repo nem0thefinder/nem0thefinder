@@ -6,7 +6,7 @@ Blockchain Security Engineer
 
 - **Active Since:** January 2025
 - **Public Audits:** 5
-- **Confirmed Findings:** 7 Highs, 8 Mediums, 12 Lows, 4 Insights
+- **Confirmed Findings:** 1 Critical, 7 Highs, 8 Mediums, 13 Lows, 4 Insights
 - **Best Rank:** 3/50 (OpenEden)
 - **Top 10 Finishes:** 2/5 contests
 - **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
@@ -33,6 +33,14 @@ Blockchain Security Engineer
 |3|[OpenEdenUSDO](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue) ![](https://img.shields.io/badge/-StableCoin-red)|Solidity|2M-3L|7/43|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md)|
 |4|[GTE](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)|![](https://img.shields.io/badge/-LaunchPad-orange) ![](https://img.shields.io/badge/-Perps-yellow)|Solidity|3H-3M-2L|45/182|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-08-gte.md)|
 |5|[AlchemixV3](https://immunefi.com./audit-competition/alchemix-v3-audit-competition)|![](https://img.shields.io/badge/-Lending_Borrowing-green) ![](https://img.shields.io/badge/-YieldAggreagator-blue)|Solidity|3H-1M-5L-1I|41/183|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md)|
+
+
+
+## Private Audits
+| Nonce | Company | Protocol | Protocol Type | Language | Findings | Report | 
+|:------|:---------|:------:|:--------------|:---------|:--------:|:------:|
+|1|[HackenProof](https://hackenproof.com/)|[ADI Predictstreet](https://adipredictstreet.com/)|![](https://img.shields.io/badge/-PredictionMarket-violet)|Solidity|1C,1L|TBD|
+
 
 
 ## Background
