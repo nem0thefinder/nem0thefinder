@@ -9,8 +9,8 @@ Security Analyst [@hackenproof](https://hackenproof.com/)
 - **Top 10 Finishes:** 2/5 contests
 - **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
 ## Technical Stack
-- Languages: `Solidity` `Rust`
-- EcoSystems: `EVM` `Solana`
+- Languages: `Solidity`,`Rust`
+- EcoSystems: `EVM` 
 ## Projects
  Project | Protocol Type | Language | Chain | nSLOC | Repo |
 |:--------|:--------------|:---------|:-----:|:-----:|:----:|
