@@ -1,9 +1,6 @@
 ## About
-
-Blockchain Security Engineer
-
+Security Analyst [@hackenproof](https://hackenproof.com/)
 ## Security Stats
-
 - **Active Since:** January 2025
 - **Public Audits:** 5
 - **Private Audits:** 1
@@ -11,21 +8,21 @@ Blockchain Security Engineer
 - **Best Rank:** 3/50 (OpenEden)
 - **Top 10 Finishes:** 2/5 contests
 - **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
-
 ## Technical Stack
-
-- Languages: `Solidity`
-- EcoSystems: `Evm`
+- Languages: `Solidity` `Rust`
+- EcoSystems: `EVM` `Solana`
+## Projects
+ Project | Protocol Type | Language | Chain | nSLOC | Repo |
+|:--------|:--------------|:---------|:-----:|:-----:|:----:|
+|[RustFund](https://codehawks.cyfrin.io/)|![](https://img.shields.io/badge/-FundRaising-green)|Rust|Solana|170|[📄](https://github.com/nem0thefinder)|
 
 ## Auditing Portfolio 
-
 ## First Flights 
 | Nonce | Contest | Findings | Rank | Report |
 |:--------|:---------|:------:|:------:|:------:|
 |1|[christmasDinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner)|3H,4M,2L|4/90|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2024-12-christmas-dinner.md)|
 |2|[HighHawk](https://codehawks.cyfrin.io/c/2025-05-hawk-high)|3H,3M,3L|18/143|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-05-HawksHigh.md)|
 |3|[LastManStanding](https://codehawks.cyfrin.io/c/2025-07-last-man-standing)|2H,2M|8/160|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-LastManStanding.md)|
-
 ## Public Audits
 | Nonce | Contest | Protocol Type | Language | Findings | Rank | Report |
 |:------|:---------|:--------------|:---------|:--------:|:----:|:------:|
@@ -34,27 +31,16 @@ Blockchain Security Engineer
 |3|[OpenEdenUSDO](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest)|![](https://img.shields.io/badge/-RWA%20Tokenization-blue) ![](https://img.shields.io/badge/-StableCoin-red)|Solidity|2M-3L|7/43|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md)|
 |4|[GTE](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)|![](https://img.shields.io/badge/-LaunchPad-orange) ![](https://img.shields.io/badge/-Perps-yellow)|Solidity|3H-3M-2L|45/182|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-08-gte.md)|
 |5|[AlchemixV3](https://immunefi.com./audit-competition/alchemix-v3-audit-competition)|![](https://img.shields.io/badge/-Lending_Borrowing-green) ![](https://img.shields.io/badge/-YieldAggreagator-blue)|Solidity|3H-1M-5L-1I|41/183|[📄](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md)|
-
-
-
 ## Private Audits
 | Nonce | Company | Protocol | Protocol Type | Language | Findings | Report | 
 |:------|:---------|:------:|:--------------|:---------|:--------:|:------:|
 |1|[HackenProof](https://hackenproof.com/)|[ADI Predictstreet](https://adipredictstreet.com/)|![](https://img.shields.io/badge/-PredictionMarket-violet)|Solidity|1C,1L|TBD|
-
-
-
 ## Background
-
 - **Education:** B.Sc. in Computer Science (2025)
 - **Security Training:** Self-taught via competitive audits & Audit Reports
 - **Approach:** Breaking systems > Building systems
-
 ## Contact
-
 - **Twitter:** [@nem0thefinder](https://x.com/nem0thefinder)
 - **Discord:** nem0thefinder
 - **Telegram:** [nem0thefinder](https://t.me/nem0thefinder)
 - **Email:** nem0thefinder@gmail.com
-
-
