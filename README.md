@@ -5,8 +5,6 @@ Security Analyst [@hackenproof](https://hackenproof.com/)
 - **Public Audits:** 5
 - **Private Audits:** 2
 - **Confirmed Findings:** 1 Critical, 7 Highs, 9 Mediums, 20 Lows, 4 Insights
-- **Best Rank:** 3/50 (OpenEden)
-- **Top 10 Finishes:** 2/5 contests
 - **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
 ## Technical Stack
 - Languages: `Solidity`,`Rust`
