@@ -3,8 +3,8 @@ Security Analyst [@hackenproof](https://hackenproof.com/)
 ## Security Stats
 - **Active Since:** January 2025
 - **Public Audits:** 5
-- **Private Audits:** 1
-- **Confirmed Findings:** 1 Critical, 7 Highs, 8 Mediums, 13 Lows, 4 Insights
+- **Private Audits:** 2
+- **Confirmed Findings:** 1 Critical, 7 Highs, 9 Mediums, 20 Lows, 4 Insights
 - **Best Rank:** 3/50 (OpenEden)
 - **Top 10 Finishes:** 2/5 contests
 - **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
@@ -35,6 +35,7 @@ Security Analyst [@hackenproof](https://hackenproof.com/)
 | Nonce | Company | Protocol | Protocol Type | Language | Findings | Report | 
 |:------|:---------|:------:|:--------------|:---------|:--------:|:------:|
 |1|[HackenProof](https://hackenproof.com/)|[ADI Predictstreet](https://adipredictstreet.com/)|![](https://img.shields.io/badge/-PredictionMarket-violet)|Solidity|1C,1L|TBD|
+|1|[HackenProof](https://hackenproof.com/)|[Stabillion](https://stabillon.com/)|![](https://img.shields.io/badge/-StableCoin-yellow)|Solidity|1M,7L|TBD|
 ## Background
 - **Education:** B.Sc. in Computer Science (2025)
 - **Security Training:** Self-taught via competitive audits & Audit Reports
