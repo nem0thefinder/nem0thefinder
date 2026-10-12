@@ -3,8 +3,8 @@ Security Analyst [@hackenproof](https://hackenproof.com/)
 ## Security Stats
 - **Active Since:** January 2025
 - **Public Audits:** 5
-- **Private Audits:** 2
-- **Confirmed Findings:** 1 Critical, 7 Highs, 9 Mediums, 20 Lows, 3 Insights
+- **Private Audits:** 3
+- **Confirmed Findings:** 1 Critical, 7 Highs, 9 Mediums, 22 Lows, 4 Insights
 - **Platforms:**  [HackenProof](https://hackenproof.com/hackers/nem0thefinder), [Code4rena](https://code4rena.com/@nem0TheFinder) , [Immunefi](https://immunefi.com/profile/nem0thefinder/) 
 ## Technical Stack
 - Languages: `Solidity`,`Rust`
