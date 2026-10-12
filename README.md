@@ -39,7 +39,8 @@ Security Analyst [@hackenproof](https://hackenproof.com/)
 - **Security Training:** Self-taught via competitive audits & Audit Reports
 - **Approach:** Breaking systems > Building systems
 ## Contact
-- **Twitter:** [@nem0thefinder](https://x.com/nem0thefinder)
+- **X:** [@nem0thefinder](https://x.com/nem0thefinder)
+- **Website:** [nem0thefinder.com](nem0thefinder.com)
 - **Discord:** nem0thefinder
 - **Telegram:** [nem0thefinder](https://t.me/nem0thefinder)
 - **Email:** nem0thefinder@gmail.com
